@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '<#PROJECT TITLE#>'
+project = 'OSU HART Pressure Transducer'
 copyright = '2021, OSU HART'
 author = 'OSU HART'
 
