@@ -155,6 +155,7 @@ Distributed under the GNU Public License. See `LICENSE` for more information.
 Contacts
 -----------
 <!-- Your Name - @your_twitter - example@example.com -->
+**Maintainer**: Samuel D. Villegas - villegsa@oregonstate.edu
 
 <a name="donate"></a>
 Support the Project
